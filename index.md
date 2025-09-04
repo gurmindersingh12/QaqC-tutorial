@@ -2,7 +2,7 @@
 
 Once your account is approved and you can log in, launching the QA/QC app takes just a few clicks.
 
-1. **Log in to the OnDemand Portal**
+> 1. **Log in to the OnDemand Portal**
 
    Go to: <a href="https://ondemand.ccast.ndsu.edu" target="_blank">https://ondemand.ccast.ndsu.edu</a>
    
@@ -13,7 +13,7 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
 
 * * * 
 
-2. **Click on “QaqC App” under Interactive Apps**
+> 2. **Click on “QaqC App” under Interactive Apps**
 
    On the top menu, click **Interactive Apps**, then select **QaqC App** from the dropdown or scroll down and find QaqC in the application grid.
 
@@ -25,7 +25,7 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
 
 * * *
 
-3. **Click "Connect to QaqC"**
+> 3. **Click "Connect to QaqC"**
 
    After a few seconds, a new “session” will appear below. Click **Connect to QaqC**.  
 
@@ -35,6 +35,6 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
 * * *
 
 
-4. **App opens in your browser** 🎉  
+> 4. **App opens in your browser** 🎉  
    You’re now ready to use the QA/QC Dashboard! The interface will walk you through selecting your dataset and running data validation steps.  
 
