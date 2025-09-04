@@ -17,11 +17,7 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
    ![Click QaqC App](assets/3-Request-QaqC.gif)
 
 3. **Fill in the job form**  
-   - **Cluster**: Thunder Prime (or as instructed)  
-   - **Cores**: 2–4 is usually enough  
-   - **Time**: e.g., `01:00:00` (1 hour)  
-   - **Account / Project**: Choose your `x-ccast-prj-…` group  
-   - (Other settings can be left as default)
+   Other settings can be left as default
    
    ![Fill QaqC form](4-Accessing-the-QaqC.gif)
 
