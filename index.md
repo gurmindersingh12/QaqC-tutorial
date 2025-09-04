@@ -16,16 +16,20 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
    On the top menu, click **Interactive Apps**, then select **QaqC App** from the dropdown or scroll down and find QaqC in the application grid.
 
 
-   It will open a new window.
+   It will open a new window. **Click “Launch”**
+   
 
    ![Click QaqC App](assets/3-Request-QaqC.gif)
 
+* * *
 
-3. **Click “Launch”**  
+3. **Click "Connect to QaqC"**  
    After a few seconds, a new “session” will appear below. Click **Connect to QaqC**.  
 
    
    ![Fill QaqC form](assets/4-Accessing-the-QaqC.gif)
+
+* * *
 
 
 4. **App opens in your browser** 🎉  
