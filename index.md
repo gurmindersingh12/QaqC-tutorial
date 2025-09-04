@@ -8,7 +8,7 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
    Go to:  
    <a href="https://ondemand.ccast.ndsu.edu" target="_blank">https://ondemand.ccast.ndsu.edu</a>  
    Use your Bison Login email and password.  
-   ![Login to OnDemand](assets/login-ondemand.gif)
+   ![Login to OnDemand](assets/Bison-login.png)
 
 2. **Click on “QaqC App” under Interactive Apps**  
    On the top menu, click **Interactive Apps**, then select **QaqC App** from the dropdown or grid.  
