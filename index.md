@@ -19,7 +19,7 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
 3. **Fill in the job form**  
    Other settings can be left as default
    
-   ![Fill QaqC form](4-Accessing-the-QaqC.gif)
+   ![Fill QaqC form](assets/4-Accessing-the-QaqC.gif)
 
 4. **Click “Launch”**  
    After a few seconds, a new “session” will appear below. Click **Connect to QaqC App**.  
