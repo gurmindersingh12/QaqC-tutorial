@@ -7,7 +7,7 @@
 Once your account is approved and you can log in, launching the QA/QC app takes just a few clicks.
 
 
-**#1. Log in to the OnDemand Portal**
+**#1. Log in to the NDSU CCAST OnDemand Portal**
 
    Go to: <a href="https://ondemand.ccast.ndsu.edu" target="_blank">https://ondemand.ccast.ndsu.edu</a>
    
