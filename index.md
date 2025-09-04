@@ -1,3 +1,7 @@
+
+* * * 
+* * * 
+
 ## Step 1: Launch the QaqC Dashboard on CCAST
 
 Once your account is approved and you can log in, launching the QA/QC app takes just a few clicks.
