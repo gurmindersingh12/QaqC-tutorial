@@ -42,7 +42,7 @@ Once your account is approved and you can log in, launching the QaqC app takes j
 
 **#4. App opens in your browser** 🎉
 
-   You’re now ready to use the QaqC Dashboard! The interface will walk you through selecting your dataset and running data validation steps.  
+   You’re now ready to use the QaqC Dashboard!
 
 * * * 
 * * *
