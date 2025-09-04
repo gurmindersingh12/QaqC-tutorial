@@ -1,5 +1,3 @@
-<div class="step">
-
 ## Step 1: Launch the QaqC Dashboard on CCAST
 
 Once your account is approved and you can log in, launching the QA/QC app takes just a few clicks.
@@ -27,5 +25,3 @@ Once your account is approved and you can log in, launching the QA/QC app takes 
 5. **App opens in your browser** 🎉  
    You’re now ready to use the QA/QC Dashboard! The interface will walk you through selecting your dataset and running data validation steps.  
 
-
-</div>
