@@ -15,6 +15,8 @@ Once your account is approved and you can log in, launching the QaqC app takes j
 
 
    ![Login to OnDemand](assets/2-OnDemand-CCAST.gif)
+   <img src="assets/2-OnDemand-CCAST.gif" alt="Upload CSV" width="100%">
+
 
 * * * 
 
