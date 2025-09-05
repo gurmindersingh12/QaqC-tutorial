@@ -50,4 +50,25 @@ Once your account is approved and you can log in, launching the QaqC app takes j
 * * *
 
 
+## Step 2: Overview of the QaqC Dashboard
 
+
+
+   ![welcome image](assets/welcome-qaqc.png)
+      
+
+
+   ![](assets/qaqc-upload.gif)
+      
+
+   ![](assets/qaqc-summary.gif)
+
+   ![](assets/qaqc-visual.gif)
+
+   ![](assets/qaqc-scatter-heatmap.gif)
+
+   ![](assets/qaqc-report.gif)
+
+
+
+      
