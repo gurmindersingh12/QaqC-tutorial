@@ -223,3 +223,40 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
 * * * 
 * * *
 
+**🔹 Tab 2: Correlation Heatmap**
+
+**🎯 What You Can Do:**
+
+  * View overall pairwise correlation between multiple traits.
+  * Choose correlation method (Pearson, Spearman, Kendall).
+  * Apply outlier filtering (e.g., SD-based).
+  * Compare Raw vs Filtered heatmaps.
+  * Export plots and datasets.
+
+**🖱️ How to Use:**
+
+  1. Select multiple variables in the Select Variables panel.
+  2. Choose a correlation method:
+       * Pearson: linear correlations
+       * Spearman: rank-based correlations
+       * Kendall: concordance between ranks
+
+  3. (Optional) Enable outlier detection with SD threshold.
+  4. Compare Raw vs Filtered heatmaps.
+  5. Hover over heatmap cells to see exact correlation values.
+  6. Download as plot or filtered dataset.
+
+**📘 Interpretation Example:**
+
+  * Correlation values range from -1 (perfect negative) to +1 (perfect positive).
+  * Strong correlations (e.g., >0.7 or < -0.7) may indicate redundancy.
+  * Negative correlations could point to trade-offs (e.g., yield vs lodging).
+
+![heatmap](assets/Step-10.gif)
+
+* * * 
+* * *
+* * * 
+* * *
+
+
