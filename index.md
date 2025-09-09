@@ -61,7 +61,7 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
 * * *
 
 
-## ------------------------------------ Step 2: Column Summary Tab ------------------------------------
+## ----------------------------------- Step 2: Column Summary Tab -----------------------------------
 ---
 ---
 
@@ -94,11 +94,85 @@ Get descriptive statistics for any numeric column — a fast way to assess data 
 
    ![column summary](assets/Step-05.gif)
       
+
+
+* * * 
+* * *
+* * * 
+* * *
+
+
+## -------------------------------- 🚦 Step 3: Visualize & Detect Outliers --------------------------------
+
+This step includes three tabs — Histogram, Boxplot, and Studentized Residual Plot — that help detect and visualize unusual patterns or outlier values.
+* * *
+
+## 📉 Tab 1: Histogram
+
+**🎯 What You Can Do:**
+
+  * Visualize frequency distribution of a numeric trait.
+  * Adjust bin size and color.
+  * Flag outliers using Standard Deviation thresholds.
+  * Download plots or filtered data.
+
+**🖱️ How to Use:**
+
+  1. Select a trait.
+  2. Optionally enable "Flag SD-based Outliers" and set bin size (if needed).
+  3. Compare Raw vs Filtered histograms.
+      * Filtered histogram excludes flagged outliers.
+  4. Below the plots, see a summary table of outlier rows.
+  5. Use the download buttons to save:
+      * Raw Plot, Filtered Plot, or Filtered CSV.
+
+📸 Insert GIF: trait selection → outlier flagging → histogram update
+
 ---
 
+## 📦 Tab 2: Boxplot
 
- * The `Upload Dataset` tab will help us upload our dataset (.csv). By default, the QaqC dashboard loads a sample dataset.
+**🎯 What You Can Do:**
+
+  * Identify outliers using IQR-based method.
+  * Customize box fill and point color.
+  * Adjust jitter for dot spacing.
+
+**🖱️ How to Use:**
+
+  1. Select a trait.
+  2. Optionally enable "Flag IQR-based Outliers".
+  3. Compare Raw vs Filtered boxplots.
+  4. Below the plots, see a summary table of outlier rows.
+  5. Customize plot aesthetics if desired.
+  6. Download plots and cleaned data.
+
+📸 Insert GIF: select trait → flag IQR outliers → download filtered plot
 
 ---
 
+## 📈 Tab 3: Studentized Residual Plot
 
+**🎯 What You Can Do:**
+
+  * Detect outliers using a linear model.
+  * Plot studentized residuals against fitted values.
+  * Flag residuals exceeding ±4 threshold.
+  * View and export a table of detected outliers.
+
+**🖱️ How to Use:**
+
+  1. Choose a Response Variable (e.g., yield).
+  2. Select Predictors (e.g., plot, block, entry).
+  3. Set a threshold (default = 4).
+  4. View the Raw vs Filtered studentized residual plots.
+       * Red dots = outliers
+  5. Below the plots, see a summary table of outlier rows.
+  6. Export plot or cleaned dataset.
+
+📸 Insert GIF: select response/predictors → residual plot shows outliers
+
+* * * 
+* * *
+* * *
+* * *
