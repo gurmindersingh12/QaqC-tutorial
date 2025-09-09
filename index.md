@@ -259,4 +259,81 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
 * * * 
 * * *
 
+## ------------------------------📑 Step 5: QA/QC Report ------------------------------
 
+This is the final step — it brings everything together into a downloadable report.
+
+**🎯 What You Can Do:**
+
+  * Mirror results from selected tabs (Column Summary, Histogram, Boxplot, Residuals, Scatter, Correlation).
+  * Automatically generate a comprehensive report.
+  * Download in HTML format for interactivity, sharing or archiving.
+
+**🖱️ How to Use:**
+
+  1. In the Mirror Settings panel, check which sections you want to include.
+       * Example: Histogram + Boxplot + Residuals.
+  2. The report preview updates live under Everything currently visible across tabs.
+  3. Click `Download HTML` to export the full report.
+
+**📘 Why It Matters:**
+
+  * Provides a transparent record of your QA/QC workflow.
+  * Ensures consistency — same steps can be shared across collaborators.
+  * Saves time by documenting analyses automatically.
+
+![qaqc report](assets/Step-11.gif)
+
+* * * 
+* * *
+* * * 
+* * *
+
+## ------------------------------ 🎉 Wrapping Up ------------------------------
+
+**Congratulations — you’ve just completed the QaqC Dashboard tutorial! 🚀**
+
+By now, you should be able to:
+
+  * Upload and clean phenotypic datasets.
+  * Summarize traits with descriptive statistics.
+  * Detect and filter outliers using multiple methods (Histogram, Boxplot, Studentized Residuals).
+  * Explore pairwise and overall trait relationships (Scatter Plots and Correlation Heatmaps).
+  * Generate a QA/QC Report to document your workflow and share with collaborators.
+
+**💡 Why This Matters**
+
+Every cleaned dataset you generate through QaqC is more:
+
+  * **Reliable** — errors and anomalies are caught early.
+  * **Reproducible** — every step is documented transparently.
+  * **Decision-ready** — enabling confident downstream analysis and interpretation.
+
+**🚀 Next Steps**
+
+  * Use your cleaned dataset in statistical models, GWAS, or genomic prediction.
+  * Share your QA/QC report with your advisor, labmates, or collaborators.
+  * Explore how different outlier detection methods change your results.
+
+## ------------------------------📬 Support & Contact ------------------------------ 
+
+#### If you run into issues while using the QaqC Dashboard, please don’t hesitate to reach out. We’re here to help!
+
+Gurminder Singh (Developer / Tutorial Author)
+📧 g.singh@ndsu.edu
+
+Dr. Richard Horsley (Department Head, Project Lead)
+📧 richard.horsley@ndsu.edu
+
+Dr. Ana Heilman-Morales (Director, NDSU Agricultural Data Analytics)
+📧 ana.heilman.morales@ndsu.edu
+
+NDSU Big Data Team (Technical Support)
+📧 ndsu.bigdata@ndsu.edu
+
+**💡 Tip:** When emailing, please include a brief description of the problem and, if possible, a screenshot of the error or the dataset structure you are working with. This helps us respond more effectively.
+
+* * * 
+* * *
+* * * 
+* * *
