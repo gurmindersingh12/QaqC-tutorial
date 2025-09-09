@@ -1,7 +1,7 @@
 
 * * * 
 * * * 
-# Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
+## Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
 * * * 
 * * * 
 
@@ -176,3 +176,47 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
 * * *
 * * *
 * * *
+
+
+## -------------------------------- Step 4: Pairwise & Overall Relationships --------------------------------
+
+
+
+### Once individual traits are cleaned, the next step is to explore relationships between traits. This is crucial for detecting hidden correlations, multicollinearity, or unexpected trends.
+
+### We use two tabs here: Scatter Plot (pairwise) and Correlation Heatmap (overall).
+
+**🔹 Tab 1: Scatter Plot**
+
+**🎯 What You Can Do:**
+
+  * Plot a response variable against a predictor variable.
+  * Add a linear regression line or correlation ellipse.
+  * Flag and filter outliers if needed.
+  * Display model statistics below the plot:
+      * Equation of best-fit line
+      * _R²_ (coefficient of determination)
+      * _p_-value (significance of relationship)
+      * Pearson’s correlation (strength & direction of association)
+
+**🖱️ How to Use:**
+
+  1. From the left panel, select a Response Variable (e.g., yield).
+  2. Select a Predictor Variable (e.g., plot).
+  3. (Optional) Check “Add Linear Model” to overlay a regression line.
+  4. (Optional) Add a Correlation Ellipse to visualize spread.
+  5. Compare Raw vs Filtered scatterplots.
+  6. Review model results under each plot.
+
+**📘 Interpretation Example:**
+
+ * If _R²_ = 0.01 → very weak relationship.
+ * If Pearson’s _r_ = 0.75 → strong positive correlation.
+ * _p_-value < 0.05 → relationship is statistically significant.
+
+
+   ![scatter plot](assets/Step-09.gif)
+
+* * * 
+* * *
+
