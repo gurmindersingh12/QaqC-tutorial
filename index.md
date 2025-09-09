@@ -218,7 +218,7 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
  * _p_-value < 0.05 → relationship is statistically significant.
 
 
-   ![scatter plot](assets/Step-09.gif)
+![scatter plot](assets/Step-09.gif)
 
 * * * 
 * * *
