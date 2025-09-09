@@ -1,7 +1,7 @@
 
 * * * 
 * * * 
-Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
+# Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
 * * * 
 * * * 
 
@@ -126,7 +126,7 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
   5. Use the download buttons to save:
       * Raw Plot, Filtered Plot, or Filtered CSV.
 
-📸 Insert GIF: trait selection → outlier flagging → histogram update
+   ![histogram](assets/Step-06.gif)
 
 ---
 
@@ -147,7 +147,7 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
   5. Customize plot aesthetics if desired.
   6. Download plots and cleaned data.
 
-📸 Insert GIF: select trait → flag IQR outliers → download filtered plot
+   ![boxplot](assets/Step-07.gif)
 
 ---
 
@@ -170,7 +170,7 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
   5. Below the plots, see a summary table of outlier rows.
   6. Export plot or cleaned dataset.
 
-📸 Insert GIF: select response/predictors → residual plot shows outliers
+   ![st residual plot](assets/Step-08.gif)
 
 * * * 
 * * *
