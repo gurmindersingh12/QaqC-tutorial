@@ -26,8 +26,7 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
 
 ---
 
-   **1.** Click “Browse…” to upload your .csv file.
-            * Make sure the file has column headers in the first row.
+   **1.** Click “Browse…” to upload your `.csv` file. Make sure the file has column headers in the first row.
             
 ---
    **2.** After loading, the dataset preview appears on the right side under Raw Data Preview.
@@ -40,10 +39,7 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
   ![find missing in csv file](assets/Step-02.gif)
 ---
       
-   **4.** To check for duplicates:
-         * Select which column(s) to check.
-         * Click “Find Duplicates”.
-         * You can then choose to Remove Duplicates if needed.
+   **4.** To check for duplicates: Select which column(s) to check, Click “Find Duplicates”, and You can then choose to Remove Duplicates if needed.
 
   ![duplicates](assets/Step-03.gif)
 ---
