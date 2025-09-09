@@ -1,7 +1,7 @@
 
 * * * 
 * * * 
-Welcome to the **QaqC Dashboard**— your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
+Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
 * * * 
 * * * 
 
@@ -12,43 +12,32 @@ Welcome to the **QaqC Dashboard**— your one-stop tool for validating, cleaning
 This is where everything starts. You’ll load your phenotypic CSV file into the app, preview the data, and check for basic issues like missing values or duplicates.
 
 
-📥 Purpose:
+**📥 Purpose:**
+   * This is where everything starts. You’ll load your phenotypic CSV file into the app, preview the data, and check for basic issues like missing values or duplicates.
 
-This is where everything starts. You’ll load your phenotypic CSV file into the app, preview the data, and check for basic issues like missing values or duplicates.
+**🎯 What You Can Do:**
 
-🎯 What You Can Do:
+ * Upload your `.csv` file.
+ * View a Raw Data Preview table.
+ * Detect and remove missing values.
+ * Detect and remove duplicate rows based on selected columns.
 
-Upload your .csv file.
+**🖱️ How to Use:**
 
-View a Raw Data Preview table.
+   1. Click “Browse…” to upload your .csv file.
+         * Make sure the file has column headers in the first row.
+   2. After loading, the dataset preview appears on the right side under Raw Data Preview.
+   3. Click “Find Missing Values” to highlight any missing entries (NA or blank).
+   4. To check for duplicates:
+         * Select which column(s) to check.
+         * Click “Find Duplicates”.
+         * You can then choose to Remove Duplicates if needed.
 
-Detect and remove missing values.
+   5. Reset Data will clear your current session and allow re-upload.
 
-Detect and remove duplicate rows based on selected columns.
+**🧠 Tip:**
 
-🖱️ How to Use:
-
-Click “Browse…” to upload your .csv file.
-
-Make sure the file has column headers in the first row.
-
-After loading, the dataset preview appears on the right side under Raw Data Preview.
-
-Click “Find Missing Values” to highlight any missing entries (NA or blank).
-
-To check for duplicates:
-
-Select which column(s) to check.
-
-Click “Find Duplicates”.
-
-You can then choose to Remove Duplicates if needed.
-
-Reset Data will clear your current session and allow re-upload.
-
-🧠 Tip:
-
-All downstream analyses (summary stats, visualizations, model residuals) use the cleaned dataset, so this step is critical for ensuring high-quality input.
+   * All downstream analyses (summary stats, visualizations, model residuals) use the cleaned dataset, so this step is critical for ensuring high-quality input.
 
    ![upload the csv file](assets/Step-01.gif)
 
