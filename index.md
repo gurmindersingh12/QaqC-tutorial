@@ -1,7 +1,7 @@
 
 * * * 
 * * * 
-## Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
+### Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
 * * * 
 * * * 
 
@@ -182,9 +182,12 @@ This step includes three tabs — Histogram, Boxplot, and Studentized Residual P
 
 
 
-### Once individual traits are cleaned, the next step is to explore relationships between traits. This is crucial for detecting hidden correlations, multicollinearity, or unexpected trends.
+#### Once individual traits are cleaned, the next step is to explore relationships between traits. This is crucial for detecting hidden correlations, multicollinearity, or unexpected trends.
 
-### We use two tabs here: Scatter Plot (pairwise) and Correlation Heatmap (overall).
+* * *
+
+
+#### We use two tabs here: Scatter Plot (pairwise) and Correlation Heatmap (overall).
 
 **🔹 Tab 1: Scatter Plot**
 
