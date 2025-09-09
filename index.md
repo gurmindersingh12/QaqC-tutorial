@@ -24,8 +24,8 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
 
 **🖱️ How to Use:**
 
-   **1.** Click “Browse…” to upload your .csv file.
-         * Make sure the file has column headers in the first row.
+    **1.** Click “Browse…” to upload your .csv file.
+            * Make sure the file has column headers in the first row.
 ---
    **2.** After loading, the dataset preview appears on the right side under Raw Data Preview.
 
