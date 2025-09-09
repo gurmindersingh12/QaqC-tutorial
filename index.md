@@ -325,10 +325,10 @@ Every cleaned dataset you generate through QaqC is more:
 Gurminder Singh (Developer / Tutorial Author)
 📧 g.singh@ndsu.edu
 
-Dr. Richard Horsley (Department Head, Project Lead)
+Richard Horsley (Department Head, Project Lead)
 📧 richard.horsley@ndsu.edu
 
-Dr. Ana Heilman-Morales (Director, NDSU Agricultural Data Analytics)
+Ana Heilman-Morales (Director, NDSU Agricultural Data Analytics, Project Lead)
 📧 ana.heilman.morales@ndsu.edu
 
 NDSU Big Data Team (Technical Support)
