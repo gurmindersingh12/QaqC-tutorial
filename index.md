@@ -65,17 +65,18 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
 ---
 ---
 
-**🔍 Purpose: Get descriptive statistics for any numeric column — a fast way to assess data spread, potential outliers, and normality.**
+**🔍 Purpose:** 
+Get descriptive statistics for any numeric column — a fast way to assess data spread, potential outliers, and normality.
 
 **🎯 What You Can Do:** 
-    * Select any numeric trait from the dropdown.
-    * View detailed statistics:
-        * Missing count
-        * Zero count
-        * Min, Max
-        * Quartiles (Q1, Median, Q3)
-        * Mean, SD, CV%
-        * Skewness & Kurtosis
+  * Select any numeric trait from the dropdown.
+  * View detailed statistics:
+      * Missing count
+      * Zero count
+      * Min, Max
+      * Quartiles (Q1, Median, Q3)
+      * Mean, SD, CV%
+      * Skewness & Kurtosis
 
 **🖱️ How to Use:**
 
