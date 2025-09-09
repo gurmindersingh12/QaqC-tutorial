@@ -28,22 +28,22 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
          * Make sure the file has column headers in the first row.
    **2.** After loading, the dataset preview appears on the right side under Raw Data Preview.
 
-         ![upload the csv file](assets/Step-01.gif)
+  ![upload the csv file](assets/Step-01.gif)
       
    **3.** Click “Find Missing Values” to highlight any missing entries (NA or blank).
 
-         ![find missing in csv file](assets/Step-02.gif)
+  ![find missing in csv file](assets/Step-02.gif)
       
    **4.** To check for duplicates:
          * Select which column(s) to check.
          * Click “Find Duplicates”.
          * You can then choose to Remove Duplicates if needed.
 
-         ![duplicates](assets/Step-03.gif)
+  ![duplicates](assets/Step-03.gif)
 
    **5.** Reset Data will clear your current session and allow re-upload.
 
-         ![reset the file upload](assets/Step-04.gif)
+  ![reset the file upload](assets/Step-04.gif)
 
 **🧠 Tip:**
 
