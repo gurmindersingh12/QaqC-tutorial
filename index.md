@@ -6,7 +6,7 @@ Welcome to the **QaqC Dashboard** - your one-stop tool for validating, cleaning,
 * * * 
 
 
-## ----------------------------- Step 1: Upload the Dataset ---------------------------
+## ----------------------------------- Step 1: Upload the Dataset ---------------------------------
 ---
 
 This is where everything starts. You’ll load your phenotypic CSV file into the app, preview the data, and check for basic issues like missing values or duplicates.
@@ -61,7 +61,7 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
 * * *
 
 
-## --------------------------- Step 2: Overview of the QaqC Dashboard ---------------------------
+## ------------------------------------- Step 2: Column Summary Tab -------------------------------------
 ---
 ---
 
