@@ -22,10 +22,13 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
  * Detect and remove missing values.
  * Detect and remove duplicate rows based on selected columns.
 
-**🖱️ How to Use:**
+**🖱️ How to Use:** 
 
-    **1.** Click “Browse…” to upload your .csv file.
+---
+
+   **1.** Click “Browse…” to upload your .csv file.
             * Make sure the file has column headers in the first row.
+            
 ---
    **2.** After loading, the dataset preview appears on the right side under Raw Data Preview.
 
