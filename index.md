@@ -315,6 +315,9 @@ Every cleaned dataset you generate through QaqC is more:
   * Share your QA/QC report with your advisor, labmates, or collaborators.
   * Explore how different outlier detection methods change your results.
 
+* * *
+* * *
+
 ## ------------------------------📬 Support & Contact ------------------------------ 
 
 #### If you run into issues while using the QaqC Dashboard, please don’t hesitate to reach out. We’re here to help!
