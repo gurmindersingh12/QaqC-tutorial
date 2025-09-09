@@ -1,16 +1,54 @@
 
 * * * 
 * * * 
+Welcome to the **QaqC Dashboard**— your one-stop tool for validating, cleaning, and exploring phenotypic datasets before statistical analysis. This tutorial will walk you through each step of the app with detailed instructions and visual guides.
+* * * 
+* * * 
+
 
 ## -------------------------- Step 1: Upload the Dataset ------------------------
 ---
 
-The very first step is to upload the dataset in `.csv` format and clean it for missing values and duplicate rows.
+This is where everything starts. You’ll load your phenotypic CSV file into the app, preview the data, and check for basic issues like missing values or duplicates.
 
 
-**#1. Upload the dataset**
+📥 Purpose:
 
-  Click on `Browse` option, then it will show us the `.csv` files in the particular directory and we can choose the file on which we wanted to QA/QC parameters.
+This is where everything starts. You’ll load your phenotypic CSV file into the app, preview the data, and check for basic issues like missing values or duplicates.
+
+🎯 What You Can Do:
+
+Upload your .csv file.
+
+View a Raw Data Preview table.
+
+Detect and remove missing values.
+
+Detect and remove duplicate rows based on selected columns.
+
+🖱️ How to Use:
+
+Click “Browse…” to upload your .csv file.
+
+Make sure the file has column headers in the first row.
+
+After loading, the dataset preview appears on the right side under Raw Data Preview.
+
+Click “Find Missing Values” to highlight any missing entries (NA or blank).
+
+To check for duplicates:
+
+Select which column(s) to check.
+
+Click “Find Duplicates”.
+
+You can then choose to Remove Duplicates if needed.
+
+Reset Data will clear your current session and allow re-upload.
+
+🧠 Tip:
+
+All downstream analyses (summary stats, visualizations, model residuals) use the cleaned dataset, so this step is critical for ensuring high-quality input.
 
    ![upload the csv file](assets/Step-01.gif)
 
