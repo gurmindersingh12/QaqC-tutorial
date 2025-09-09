@@ -61,21 +61,43 @@ This is where everything starts. You’ll load your phenotypic CSV file into the
 * * *
 
 
-## ------------------------------------- Step 2: Column Summary Tab -------------------------------------
+## ------------------------------------ Step 2: Column Summary Tab ------------------------------------
 ---
 ---
 
- * When we launch the app, we will see this `Welcome`/landing page. We can read and familirize ourself with app, what it is and what we can achieve with it.
+**🔍 Purpose: Get descriptive statistics for any numeric column — a fast way to assess data spread, potential outliers, and normality.**
 
-   ![welcome image](assets/welcome-qaqc.png)
+**🎯 What You Can Do:** 
+    * Select any numeric trait from the dropdown.
+    * View detailed statistics:
+        * Missing count
+        * Zero count
+        * Min, Max
+        * Quartiles (Q1, Median, Q3)
+        * Mean, SD, CV%
+        * Skewness & Kurtosis
+
+**🖱️ How to Use:**
+
+  1. Choose a trait/column from the “Select Column to Summarize” dropdown.
+  2. The Summary Statistics table will update instantly.
+  3. Click “Show Definitions” to view explanations of each metric.
+
+**📘 Metric Definitions (examples):**
+
+  * CV (%): Coefficient of Variation. Helps compare variation across traits with different units.
+  * Skewness: Indicates asymmetry of the distribution.
+  * Kurtosis: Measures tail heaviness. >0 = heavier tails.
+
+
+
+   ![column summary](assets/Step-05.gif)
       
 ---
 
 
  * The `Upload Dataset` tab will help us upload our dataset (.csv). By default, the QaqC dashboard loads a sample dataset.
 
-   ![](assets/qaqc-upload.gif)
-      
 ---
 
 
